@@ -1,0 +1,18 @@
+{"elements": [
+    {
+        "balance": 500,
+        "deposits": [500]
+    },
+    {"wishes": [{
+        "price": 1200.22,
+        "name": "laptop",
+        "category": "ELECTRONICS",
+        "status": false,
+        "allocated": 0
+    }]},
+    {"purchases": [{
+        "price": 20,
+        "name": "headphones",
+        "category": "ELECTRONICS"
+    }]}
+]}
