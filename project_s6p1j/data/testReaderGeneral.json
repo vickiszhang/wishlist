@@ -1,0 +1,27 @@
+{"elements": [
+  {"balance": 100.23,
+    "deposits":
+    [
+      500,
+      400
+    ]
+  },
+  {"wishes": [{
+    "price": 2345.67,
+    "name": "phone",
+    "category": "ELECTRONICS",
+    "status": false,
+    "allocated": 0
+  },{
+    "price": 10,
+    "name": "book",
+    "category": "OTHER",
+    "status": true,
+    "allocated": 9
+  }]},
+  {"purchases": [{
+    "price": 900,
+    "name": "TV",
+    "category": "ELECTRONICS"
+  }]}
+]}

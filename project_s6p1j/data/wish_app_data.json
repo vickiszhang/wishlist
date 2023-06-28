@@ -1,0 +1,11 @@
+{"elements": [
+    {
+        "balance": 900,
+        "deposits": [
+            500,
+            400
+        ]
+    },
+    {"wishes": []},
+    {"purchases": []}
+]}
